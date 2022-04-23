@@ -1,4 +1,4 @@
-# USING AWS 
+# USING AWS instead of GCP
 
 
 <p align="center">
